@@ -32,11 +32,11 @@
 
 - Frameworks and Libraries
 
-  ![frameworks-and-libraries](https://skillicons.dev/icons?i=spring,django,react,nodejs)
+  ![frameworks-and-libraries](https://skillicons.dev/icons?i=django,react,flask)
 
 - Tools
 
-  ![tools](https://skillicons.dev/icons?i=vim,vscode,idea,androidstudio,github,selenium)
+  ![tools](https://skillicons.dev/icons?i=vscode,idea,github)
 
 
 - Technologies
@@ -46,7 +46,7 @@
 
 ### LeetCode Stats
 
-[![leetcode-stats](https://leetcard.jacoblin.cool/SSHshadow2222?theme=dark&font=arial&cache=0)]([https://leetcode.com/SSHshadow2222](https://leetcode.com/u/shinasamanpk/))
+[![leetcode-stats](https://leetcode.com/u/shinasamanpk/)]([https://leetcode.com/SSHshadow2222](https://leetcode.com/u/shinasamanpk/))
 
 
-![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs?username=sshshadow222&show_icons=true&locale=en&layout=compact&theme=dark)
+
