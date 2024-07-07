@@ -4,9 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinas07&label=Profile%20views&color=0e75b6&style=flat" alt="shinas07" /> </p>
 
 
+<h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **shinasaman07@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
