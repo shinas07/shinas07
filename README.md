@@ -45,9 +45,6 @@
   ![technologies](https://skillicons.dev/icons?i=git,aws)
   
 
-### LeetCode Stats
-
-[![leetcode-stats](https://leetcode.com/u/shinasamanpk/)]([https://leetcode.com/SSHshadow2222](https://leetcode.com/u/shinasamanpk/))
 
 
 
