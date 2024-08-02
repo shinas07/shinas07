@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinas07&label=Profile%20views&color=0e75b6&style=flat" alt="shinas07" /> </p>
 
 
-Hi, I'm Shinas! I'm an IT professional specializing in Python web development and currently focusing on Docker, Kubernetes, and gRPC to develop efficient and scalable applications.
+I'm an IT professional specializing in Python web development and currently focusing on Docker, Kubernetes, and gRPC to develop efficient and scalable applications.
 
 ## About Me
 
