@@ -4,8 +4,40 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinas07&label=Profile%20views&color=0e75b6&style=flat" alt="shinas07" /> </p>
 
 
-<h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **shinasaman07@gmail.com**
+Hi, I'm Shinas! I'm an IT professional specializing in Python web development and currently focusing on Docker, Kubernetes, and gRPC to develop efficient and scalable applications.
+
+## About Me
+
+👨‍💻 I'm passionate about exploring various facets of web development and DevOps, with a keen interest in:
+
+- Docker for containerization
+- Kubernetes for orchestration
+- Microservices architecture
+- gRPC for efficient communication between services
+
+I'm excited to contribute to the world of technology and leverage cutting-edge tools to tackle real-world issues. My journey involves constantly learning, experimenting, and implementing innovative solutions.
+
+## Current Focus
+
+🔍 Currently, I'm deeply engaged in exploring DevOps practices and microservices. From containerizing applications with Docker to orchestrating them with Kubernetes, I'm committed to pushing the boundaries of what modern web development can achieve.
+
+## Skills
+
+- **Frontend:** React, Redux, Tailwind CSS, Vite
+- **Backend:** Python, Django, Django REST Framework
+- **DevOps:** Docker, Kubernetes
+- **Others:** JWT Authentication, gRPC, Microservices architecture
+
+## Collaboration and Learning
+
+I thrive on challenges and am always eager to collaborate with like-minded individuals. Whether it's brainstorming ideas or diving into coding sessions, I'm ready to explore this amazing field together!
+
+## Let's Connect!
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shinas07/) or check out my repositories for more projects and code samples.
+
+
+
 
 
 <p align="left">
