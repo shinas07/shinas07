@@ -8,12 +8,9 @@ I'm an IT professional specializing in Python web development and currently focu
 
 ## About Me
 
-👨‍💻 I'm passionate about exploring various facets of web development and DevOps, with a keen interest in:
+👨‍💻 I'm passionate about exploring various facets of web development and DevOps,
 
-- Docker for containerization
-- Kubernetes for orchestration
-- Microservices architecture
-- gRPC for efficient communication between services
+
 
 I'm excited to contribute to the world of technology and leverage cutting-edge tools to tackle real-world issues. My journey involves constantly learning, experimenting, and implementing innovative solutions.
 
