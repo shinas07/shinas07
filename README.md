@@ -68,21 +68,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shinas07&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shinas07&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinas07&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
